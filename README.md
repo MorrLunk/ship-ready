@@ -110,9 +110,9 @@ Message me on LinkedIn - Matilda Orring Lunki. I answer there.
 
 ## Honest limits
 
-- Version 1.0. The checks come from a version I have been running on my own
-  projects. This packaged version is new, and you are among the first people outside
-  me to run it. Tell me where it breaks.
+- Version 1.0, run end to end on a real project on 19 November 2026 before you got
+  it. It found 8 failing checks and 24 open blockers in a product I thought I knew.
+  You are among the first people outside me to run it. Tell me where it breaks.
 - It is not legal advice, an audit, a penetration test or an accessibility audit. It
   tells you which of those you have not done.
 - Every outside fact it states carries the date it was checked. Rules move. A
