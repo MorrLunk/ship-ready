@@ -104,7 +104,7 @@ You have this free, permanently. Two things in return, whenever you get to them:
 
 And if it is useful, tell me who where you work should see it.
 
-Message me on LinkedIn - Matilda Orring Lunki. I answer there.
+Message me on [LinkedIn](https://www.linkedin.com/in/matilda-orring-lunki-70564b6/). I answer there.
 
 ---
 
